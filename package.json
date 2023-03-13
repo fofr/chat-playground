@@ -29,7 +29,7 @@
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "abcjs": "^6.1.9",
-    "chatgpt": "^5.0.7",
+    "chatgpt": "^5.0.10",
     "dotenv": "^16.0.3",
     "govuk-prototype-rig": "^0.9.2",
     "js-yaml": "^4.1.0",
